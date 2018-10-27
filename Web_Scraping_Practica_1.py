@@ -3,8 +3,6 @@ import requests
 import csv
 import time
 import argparse
-from datetime import datetime
-from datetime import timedelta
 from bs4 import BeautifulSoup
 
 def extraer(catalogo):   
