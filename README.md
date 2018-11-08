@@ -6,6 +6,7 @@ Primera práctica de la asignatura de Tipología y ciclo de vida de los datos de
 El código está en el archivo: Web_Scraping_Practica_1.py 
 
 <h2>Recursos utilizados para desarrollar la práctica</h2>
-● Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
-● Masip, D. El lenguaje Python. Editorial UOC.
-● Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+<ul>
+<li>Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.</li>
+<li> Masip, D. El lenguaje Python. Editorial UOC.</li>
+<li>Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.</li></ul>
