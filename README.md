@@ -5,6 +5,7 @@ Primera práctica de la asignatura de Tipología y ciclo de vida de los datos de
 
 Ficheros subidos:
 - Web_Scraping_Practica_1.py : Es el código de la aplicación.
+- Web_Scrping: Documento PDF con las respuestas de las preguntas planteadas en la práctica1
 - Carpeta img : contiene imagenes obtenidas al ejecutar el código
 - mediamarkt.csv : archivo donde se almacena los datos obtenidos de la web
 
